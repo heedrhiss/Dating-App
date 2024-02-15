@@ -45,7 +45,6 @@ function profileIterator(profiles){
     };
 };
 
-console.log(randNum);
 
 document.getElementById('next').addEventListener('click',nextProfile)
 nextProfile()
